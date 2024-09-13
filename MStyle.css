@@ -1,0 +1,39 @@
+
+.container{width:960;
+margin:0 auto
+}  
+header{background-image:url(img/bgheader7.png);
+		height:80px;}
+
+nav{width:30%;
+	background-color:RoyalBlue;
+	height:500px;
+	float:left;
+	}
+article{background-color:LightSteelBlue;
+		height:500px;
+		width:70%;
+		float:left;}
+		
+footer{
+	clear:both;
+	background-color:MidnightBlue;
+	padding:20px;
+	text-align:center;
+	}
+	
+ul{
+	margin:0;}
+
+a:link {color:black;
+	background-color:LightSteelBlue;
+	display:inline-block;
+	text-align:center;
+	text-decoration:none;
+	padding:5px 5px;
+	width:200px;
+}
+
+a:hover{color:White; background-color:DeepSkyBlue;}
+a:active{color:White;}
+a:visited{color:Black;}
